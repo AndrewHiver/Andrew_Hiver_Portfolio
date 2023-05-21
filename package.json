@@ -2,7 +2,7 @@
   "name": "blog-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AndrewHiver.github.io/Andrew_Hiver_Portfolio",
+  "homepage": "https://andrewhiver.github.io/about",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",

@@ -16,8 +16,8 @@ function About() {
               However, I am also self-reliant and able to work independently when needed.
               I am consistently motivated to achieve my goals and fully invest myself in my projects.</p>
             <div class="btn-box">
-              <a href="/resume">Resume</a>
-              <a href="/projects">Projects</a>
+              <a href="https://andrewhiver.github.io/resume">Resume</a>
+              <a href="https://andrewhiver.github.io/projects">Projects</a>
             </div>
           </div>
         </section>

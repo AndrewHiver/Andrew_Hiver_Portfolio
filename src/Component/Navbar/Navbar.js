@@ -7,7 +7,7 @@ export default function Navbar() {
       <ul className="liste">
         <a href="#" class="logo">Andrew Hiver.</a>
         <li className="items">
-          <Link to="/">
+          <Link to="/about">
             <h4>About</h4>
           </Link>
         </li>
