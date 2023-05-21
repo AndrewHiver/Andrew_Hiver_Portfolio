@@ -1,0 +1,32 @@
+nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  background: rgb(63, 108, 255);
+}
+
+.liste {
+  list-style-type: none;
+  background: rgb(63, 108, 255);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.items {
+  margin-right: 10px;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+.logo {
+  position: relative;
+  margin-right: 600px;
+  font-size: 25px;
+  color: #ededed;
+  text-decoration: none;
+  font-weight: 600;
+}
